@@ -32,12 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/camilayoshioka/camilayoshioka/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/camila-sayuri-yoshioka/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
